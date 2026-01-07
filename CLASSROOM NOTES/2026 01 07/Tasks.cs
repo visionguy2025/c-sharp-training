@@ -53,33 +53,25 @@
 
 #region task4
 // Console.WriteLine("Bali daxil edin:");
-// int inputScore = int.Parse(Console.ReadLine());
-// if (inputScore >= 91)
-// {
-//     Console.WriteLine("Netice: Ela");
-// }
-// else if (inputScore >= 91 && inputScore <= 100)
-// {
-//     Console.WriteLine("Netice: Yaxsi");
-// }
-// else if (inputScore >= 81 && inputScore <=90)
-// {
-//     Console.WriteLine("Netice: Orta");
-// }
-// else if (inputScore >= 71 && inputScore <=80)
-// {
-//     Console.WriteLine("Netice: Pis deyil");
-// }
-// else if (inputScore >= 61 && inputScore <=70)
-// {
-//     Console.WriteLine("Netice: Kafi");
-// }
-// else if (inputScore >= 51 && inputScore <=60)
-// {
-//     Console.WriteLine("...");
-// }
-// else
-// {
-//     Console.WriteLine("--------------------\nNetice: GG");
-// };
+int inputScore = int.Parse(Console.ReadLine());
+switch (inputScore)
+{
+    case inputScore >= 91 && inputScore <= 100:
+        Console.WriteLine("--------------------\nNetice: Ela");
+        break;
+    case inputScore >= 81 && inputScore <=90:
+        Console.WriteLine("--------------------\nNetice: Yaxsi");
+        break;
+    case inputScore >= 71 && inputScore <=80:
+        Console.WriteLine("--------------------\nNetice: Orta");
+        break;
+    case inputScore >= 61 && inputScore <=70:
+        Console.WriteLine("--------------------\nNetice: Kafi");
+        break;
+    case inputScore >= 51 && inputScore <=60:
+        Console.WriteLine("--------------------\nNetice: Zeif");
+        break;
+    default:
+        Console.WriteLine("--------------------\nNetice: GG");
+};
 #endregion

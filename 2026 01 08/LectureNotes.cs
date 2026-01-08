@@ -42,51 +42,102 @@
 #endregion
 
 #region Class
-namespace HelloWorld
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-           Calculator calculator = new Calculator();
-           int result = calculator.Divide(10, 2);
-           Console.WriteLine(result);
-        }
+// namespace HelloWorld
+// {
+//     class Program
+//     {
+//         static void Main(string[] args)
+//         {
+//            Calculator calculator = new Calculator();
+//            int result = calculator.Divide(10, 2);
+//            Console.WriteLine(result);
+//         }
 
-        // signature of the method - methods name, methods parameter count, methods parameter return type
-        // overload of methods
+//         // signature of the method - methods name, methods parameter count, methods parameter return type
+//         // overload of methods
 
-        static void GetInfo(int age)
-        {
-            Console.WriteLine("Salam");
-        }
-        static void GetInfo(string name)
-        {
-            Console.WriteLine("Salam");
-        }
-        static void GetInfo(string name, int age)
-        {
-            Console.WriteLine("Salam");
-        }
-    };
+//         static void GetInfo(int age)
+//         {
+//             Console.WriteLine("Salam");
+//         }
+//         static void GetInfo(string name)
+//         {
+//             Console.WriteLine("Salam");
+//         }
+//         static void GetInfo(string name, int age)
+//         {
+//             Console.WriteLine("Salam");
+//         }
+//     };
 
-    public class Calculator {
-        public int Sum(int a, int b)
-        {
-            return a + b;
-        }
-        public int Sub(int a, int b)
-        {
-            return a - b;
-        }
-        public int Multiply(int a, int b)
-        {
-            return a * b;
-        }
-        public int Divide(int a, int b)
-        {
-            return a / b;
-        }
-    };
-};
+//     public class Calculator {
+//         public int Sum(int a, int b)
+//         {
+//             return a + b;
+//         }
+//         public int Sub(int a, int b)
+//         {
+//             return a - b;
+//         }
+//         public int Multiply(int a, int b)
+//         {
+//             return a * b;
+//         }
+//         public int Divide(int a, int b)
+//         {
+//             return a / b;
+//         }
+//     };
+// };
+#endregion
+
+#region BuiltInMath
+// using System;
+// namespace HelloWorld
+// {
+//     class LectureNotes
+//     {
+//         static void Main(string[] args)
+//         {
+//             Console.WriteLine(Math.Abs(-56));
+//             Console.WriteLine(Math.Sqrt(64));
+//             Console.WriteLine(Math.Pow(9, 3));
+//         }
+//     };
+// };
+#endregion
+
+#region Arrays
+// namespace Name
+// {
+//     class Untitled
+//     {
+//         static void Main(string[] args)
+//         {
+//             string[]names = {"Alice", "Bob", "Charlie", "Diana"};
+//             // foreach (string name in names)
+//             // {
+//             //     Console.WriteLine(name);
+//             // };
+//             for (int i=0; i<names.Length; i++)
+//             {
+//                 Console.WriteLine(names[i]);
+//             }
+
+//             int[] numbers = {1, 2, 3, 4, 5};
+//             Console.WriteLine(SumArrElements(numbers));
+//             Console.WriteLine(SumArrElements(new int[] {6,7,8,9}));
+//             // if function would accept parameters as this - params int[] array, we could send arguments without array - SumArrElements(5, 10, 100, 150, 20)
+//         }
+//         static int SumArrElements(int[] arrs)
+//         {
+//             int sum = 0;
+//             foreach(int element in arrs)
+//             {
+//                 sum += element;
+//             };
+//             return sum;
+//         }
+//     };
+// };
 #endregion

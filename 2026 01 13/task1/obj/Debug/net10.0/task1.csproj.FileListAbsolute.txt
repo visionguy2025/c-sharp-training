@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\bin\Debug\net10.0\task1.exe
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\bin\Debug\net10.0\task1.deps.json
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\bin\Debug\net10.0\task1.runtimeconfig.json
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\bin\Debug\net10.0\task1.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\bin\Debug\net10.0\task1.pdb
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\obj\Debug\net10.0\task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\obj\Debug\net10.0\task1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\obj\Debug\net10.0\task1.AssemblyInfo.cs
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\obj\Debug\net10.0\task1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\obj\Debug\net10.0\task1.sourcelink.json
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\obj\Debug\net10.0\task1.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\obj\Debug\net10.0\refint\task1.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\obj\Debug\net10.0\task1.pdb
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\obj\Debug\net10.0\task1.genruntimeconfig.cache
+C:\Users\user\Desktop\KB\VACSharp\2026 01 13\task1\obj\Debug\net10.0\ref\task1.dll

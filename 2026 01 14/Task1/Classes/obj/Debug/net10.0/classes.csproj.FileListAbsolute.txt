@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\bin\Debug\net10.0\classes.deps.json
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\bin\Debug\net10.0\classes.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\bin\Debug\net10.0\classes.pdb
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\obj\Debug\net10.0\classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\obj\Debug\net10.0\classes.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\obj\Debug\net10.0\classes.AssemblyInfo.cs
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\obj\Debug\net10.0\classes.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\obj\Debug\net10.0\classes.sourcelink.json
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\obj\Debug\net10.0\classes.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\obj\Debug\net10.0\refint\classes.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\obj\Debug\net10.0\classes.pdb
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\Classes\obj\Debug\net10.0\ref\classes.dll

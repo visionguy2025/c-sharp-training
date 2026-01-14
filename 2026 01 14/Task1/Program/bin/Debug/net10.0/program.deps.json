@@ -8,15 +8,15 @@
     ".NETCoreApp,Version=v10.0": {
       "program/1.0.0": {
         "dependencies": {
-          "classes": "1.0.0"
+          "models": "1.0.0"
         },
         "runtime": {
           "program.dll": {}
         }
       },
-      "classes/1.0.0": {
+      "models/1.0.0": {
         "runtime": {
-          "classes.dll": {
+          "models.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -30,7 +30,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "classes/1.0.0": {
+    "models/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

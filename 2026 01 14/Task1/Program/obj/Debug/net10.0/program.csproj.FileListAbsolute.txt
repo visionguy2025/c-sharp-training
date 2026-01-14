@@ -3,8 +3,6 @@ C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\bin\Debug\net10.0\pro
 C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\bin\Debug\net10.0\program.runtimeconfig.json
 C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\bin\Debug\net10.0\program.dll
 C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\bin\Debug\net10.0\program.pdb
-C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\bin\Debug\net10.0\classes.dll
-C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\bin\Debug\net10.0\classes.pdb
 C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\obj\Debug\net10.0\program.csproj.AssemblyReference.cache
 C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\obj\Debug\net10.0\program.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\obj\Debug\net10.0\program.AssemblyInfoInputs.cache
@@ -17,3 +15,5 @@ C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\obj\Debug\net10.0\ref
 C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\obj\Debug\net10.0\program.pdb
 C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\obj\Debug\net10.0\program.genruntimeconfig.cache
 C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\obj\Debug\net10.0\ref\program.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\bin\Debug\net10.0\models.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 14\task1\program\bin\Debug\net10.0\models.pdb

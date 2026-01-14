@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net10.0": {
-      "classes/1.0.0": {
+      "models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v10.0",
         "compile": {
-          "bin/placeholder/classes.dll": {}
+          "bin/placeholder/models.dll": {}
         },
         "runtime": {
-          "bin/placeholder/classes.dll": {}
+          "bin/placeholder/models.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "classes/1.0.0": {
+    "models/1.0.0": {
       "type": "project",
-      "path": "../Classes/classes.csproj",
-      "msbuildProject": "../Classes/classes.csproj"
+      "path": "../Models/models.csproj",
+      "msbuildProject": "../Models/models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "classes >= 1.0.0"
+      "models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -58,8 +58,8 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 14\\task1\\Classes\\classes.csproj": {
-              "projectPath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 14\\task1\\Classes\\classes.csproj"
+            "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 14\\task1\\Models\\models.csproj": {
+              "projectPath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 14\\task1\\Models\\models.csproj"
             }
           }
         }

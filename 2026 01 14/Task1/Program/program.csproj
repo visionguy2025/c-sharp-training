@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Classes\classes.csproj" />
+    <ProjectReference Include="..\Models\models.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

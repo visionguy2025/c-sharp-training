@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 15\\Task1\\models\\models.csproj": {}
+    "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 15\\Task1\\Models\\models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 15\\Task1\\models\\models.csproj": {
+    "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 15\\Task1\\Models\\models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 15\\Task1\\models\\models.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 15\\Task1\\Models\\models.csproj",
         "projectName": "models",
-        "projectPath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 15\\Task1\\models\\models.csproj",
+        "projectPath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 15\\Task1\\Models\\models.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 15\\Task1\\models\\obj\\",
+        "outputPath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 01 15\\Task1\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

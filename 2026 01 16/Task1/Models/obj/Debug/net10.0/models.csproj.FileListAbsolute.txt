@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\bin\Debug\net10.0\models.deps.json
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\bin\Debug\net10.0\models.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\bin\Debug\net10.0\models.pdb
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\obj\Debug\net10.0\models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\obj\Debug\net10.0\models.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\obj\Debug\net10.0\models.AssemblyInfo.cs
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\obj\Debug\net10.0\models.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\obj\Debug\net10.0\models.sourcelink.json
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\obj\Debug\net10.0\models.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\obj\Debug\net10.0\refint\models.dll
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\obj\Debug\net10.0\models.pdb
+C:\Users\user\Desktop\KB\VACSharp\2026 01 16\Task1\Models\obj\Debug\net10.0\ref\models.dll

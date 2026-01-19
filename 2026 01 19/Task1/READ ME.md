@@ -8,3 +8,7 @@ OBJECTIVE:
     • CalculateDuration(Project project) – layihə müddətini günlərlə qaytarsın
     • PrintEmployeeInfo(Employee e) – employee məlumatını konsola yazsın(CalculateDuration və PrintEmployeeInfo metodları üçün ayrıca static Utilities class yaradılmalıdır. Bu metodlar heç bir instance-a bağlı olmadan istifadə olunmalıdır)
     • Employee tipinde  array yaradin.Ternary operator ilə bonus səviyyəsini High/Low kimi göstərin
+
+
+NOTES:
+    • Interface shouldn't be in Models folder !

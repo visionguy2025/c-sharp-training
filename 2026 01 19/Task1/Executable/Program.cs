@@ -1,7 +1,11 @@
 ﻿using Models;
 
-internal class Program
+internal static class Program
 {
+    internal static Employee[] employees;
+    internal static Project[] projects;
+    internal static Employee[] teams;
+
     internal static void Main(string[] args)
     {
         Application();
@@ -11,9 +15,9 @@ internal class Program
     internal static void Application()
     {
         Manager manager = new Manager();
-        Employee[] Employees = new Employee[0];
-        Project[] Projects = new Project[0];
-        Employee[] Teams = new Employee[] {};
+        employees = new Employee[0];
+        projects = new Project[0];
+        teams = new Employee[] {};
 
         bool IsRunning = true;
 
@@ -29,7 +33,7 @@ internal class Program
             switch (MainInput)
             {
                 case "1":
-                    MenuEmployee(Employees);
+                    MenuEmployee();
                     break;
                 case "2":
                     MenuProjects();
@@ -41,7 +45,7 @@ internal class Program
         }
     }
 
-    internal static void MenuEmployee(Employee[] EmployeeList)
+    internal static void MenuEmployee()
     {
         Console.WriteLine(":APPLICATION/Employees");
         Console.WriteLine("------------------------");
@@ -58,21 +62,32 @@ internal class Program
             case "1":
                 Console.WriteLine(":APPLICATION/Employees/All Employes");
                 Console.WriteLine("------------------------");
-                if(EmployeeList.Length == 0)
+                if(employees.Length == 0)
                 {
                     Console.WriteLine("Not Employee found.");
                 }
                 else
                 {
-                    for(int i=0; i<EmployeeList.Length; i++)
+                    for(int i=0; i<employees.Length; i++)
                     {
-                        Console.WriteLine(EmployeeList[i].GetFullName());
+                        Console.WriteLine(employees[i].GetFullName());
                     }
                 }
                 break;
             case "2":
-                Console.WriteLine(":APPLICATION/Employees/2");
+                Console.WriteLine(":APPLICATION/Employees/Add Employee");
                 Console.WriteLine("------------------------");
+                int id = int.Parse(Console.ReadLine());
+                string firstname = Console.ReadLine();
+                string lastname = Console.ReadLine();
+                int salary = int.Parse(Console.ReadLine());
+                Employee NewEmployee = new Employee()
+                {
+                    Id = id,
+                    FirstName = firstname,
+                    LastName = lastname,
+                    Salary = salary
+                };
                 break;
             case "3":
                 Console.WriteLine(":APPLICATION/Employees/3");

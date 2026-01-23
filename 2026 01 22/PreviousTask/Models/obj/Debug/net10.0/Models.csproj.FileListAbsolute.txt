@@ -1,5 +1,0 @@
-C:\Users\user\Desktop\KB\VACSharp\2026 01 22\PreviousTask\Models\obj\Debug\net10.0\Models.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user\Desktop\KB\VACSharp\2026 01 22\PreviousTask\Models\obj\Debug\net10.0\Models.AssemblyInfoInputs.cache
-C:\Users\user\Desktop\KB\VACSharp\2026 01 22\PreviousTask\Models\obj\Debug\net10.0\Models.AssemblyInfo.cs
-C:\Users\user\Desktop\KB\VACSharp\2026 01 22\PreviousTask\Models\obj\Debug\net10.0\Models.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\KB\VACSharp\2026 01 22\PreviousTask\Models\obj\Debug\net10.0\Models.sourcelink.json

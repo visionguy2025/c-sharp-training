@@ -1,1 +1,0 @@
--- trigger, function, procedure, ... union, unionall, except, intersect

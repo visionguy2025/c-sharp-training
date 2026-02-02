@@ -37,4 +37,15 @@ ROOT/
 12. replace SAME_V_W_DOTNET with current .net version and install packages part 1 • dotnet add package Microsoft.EntityFrameworkCore --version SAME_V_W_DOTNET
 13. replace SAME_V_W_DOTNET with current .net version and install packages part 2 • dotnet add package Microsoft.EntityFrameworkCore.SqlServer --version SAME_V_W_DOTNET
 14. replace SAME_V_W_DOTNET with current .net version and install packages part 3 • dotnet add package Microsoft.EntityFrameworkCore.Tools --version SAME_V_W_DOTNET
-15. sanity check again • cd ..; dotnet build
+15. replace SAME_V_W_DOTNET with current .net version and install packages part 4 • dotnet add package Microsoft.EntityFrameworkCore.Design --version SAME_V_W_DOTNET
+16. replace SAME_V_W_DOTNET with current .net version and install packages part 5 • dotnet tool install --global dotnet-ef --version SAME_V_W_DOTNET
+17. sanity check again • cd ..; dotnet build
+
+
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+##### MIGRATION AND LAUNCH #####
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+- mssql uri • Server=localhost;Database=DB_NAME_HERE;TrustServerCertificate=True;TrustedConneciton=True;
+- launch project • dotnet run
+- create migration files • dotnet ef migrations add MIGRATION_NAME -p .\ConoleApp\ConsoleApp.csproj -o .\DAL\Migrations
+- update database • dotnet ef database update

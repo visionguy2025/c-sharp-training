@@ -1,6 +1,6 @@
-■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 ##### FILE STRUCTURE #####
-■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 ROOT/
 │
 ├─ Models/
@@ -13,16 +13,16 @@ ROOT/
 │   ├─ Migrations/
 │   └─ DAL.csproj
 │
-└─ ConsoleApp/
+├─ ConsoleApp/
 │   ├─ Program.cs
 │   ├─ appsettings.json
 │   └─ ConsoleApp.csproj
 └─ MyProject.sln
 
 
-■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 ##### INSTALLATION LOG #####
-■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
+■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■■
 01. open integrated terminal for the root folder
 02. create project solution file • dotnet new sln -n MyProject
 03. create folders Models, DataAccessLayer, ConsoleApp, CustomExceptions folders • mkdir Models; mkdir DAL; mkdir ConsoleApp; mkdir CustomExceptions;

@@ -38,6 +38,7 @@
         Remove-Item Entities/Class1.cs;
         dotnet add WebAPI/WebAPI.csproj package Microsoft.EntityFrameworkCore --version 10.0.1;
         dotnet add WebAPI/WebAPI.csproj package Microsoft.EntityFrameworkCore.SqlServer --version 10.0.1;
+        dotnet add WebAPI/WebAPI.csproj package Microsoft.EntityFrameworkCore.Design --version 10.0.1;
         dotnet add WebAPI/WebAPI.csproj package Swashbuckle.AspNetCore --version 10.0.1;
         dotnet add WebAPI/WebAPI.csproj package Microsoft.OpenApi --version 10.0.1;
         Rename-Item DataAccessLayer/Class1.cs EFDbContext.cs;
@@ -49,4 +50,4 @@
 ##### **USAGE COMMANDS** #####
     OPEN INTEGRATED TERMINAL FROM ROOT FOLDER (Test):
         cd WebAPI; dotnet run;
-        cd ../DataAccessLayer; dotnet ef migrations add Init; dotnet ef database update;
+        cd ../DataAccessLayer; dotnet ef migrations add InitialCreate --startup-project ../WebAPI/WebAPI.csproj; dotnet ef database update --startup-project ../WebAPI/WebAPI.csproj;

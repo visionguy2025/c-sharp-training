@@ -1,0 +1,6 @@
+@TestViaGrok_HostAddress = http://localhost:5031
+
+GET {{TestViaGrok_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,36 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2026 02 10", "2026 02 10", "{65F17C00-D4F0-97AA-803B-3BFD0C165A87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskMgmt", "2026 02 10\TaskMgmt\TaskMgmt.csproj", "{238C0091-7BE1-BE0F-7094-B1623B113EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestForExtCsh", "2026 02 10\TestForExtCsh\TestForExtCsh.csproj", "{73CF9FDB-21F4-EE7B-779E-5999C6A2A6A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{238C0091-7BE1-BE0F-7094-B1623B113EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{238C0091-7BE1-BE0F-7094-B1623B113EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{238C0091-7BE1-BE0F-7094-B1623B113EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{238C0091-7BE1-BE0F-7094-B1623B113EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73CF9FDB-21F4-EE7B-779E-5999C6A2A6A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73CF9FDB-21F4-EE7B-779E-5999C6A2A6A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73CF9FDB-21F4-EE7B-779E-5999C6A2A6A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73CF9FDB-21F4-EE7B-779E-5999C6A2A6A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{238C0091-7BE1-BE0F-7094-B1623B113EE3} = {65F17C00-D4F0-97AA-803B-3BFD0C165A87}
+		{73CF9FDB-21F4-EE7B-779E-5999C6A2A6A1} = {65F17C00-D4F0-97AA-803B-3BFD0C165A87}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24C37DA0-2667-4C79-8617-3624AD287342}
+	EndGlobalSection
+EndGlobal

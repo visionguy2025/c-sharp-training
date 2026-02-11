@@ -1,9 +1,11 @@
 ##### **SETUP COMMANDS** #####
-    dotnet new webapi --framework net10.0;
+    dotnet new webapi -n EcommerceAPI --framework net10.0;
+    cd EcommerceAPI;
     dotnet new apicontroller -n AuthCTRL -o ./Controllers/Auth;
     dotnet new apicontroller -n CategoriesCTRL -o ./Controllers;
     dotnet new apicontroller -n ProductsCTRL -o ./Controllers;
     dotnet new apicontroller -n BrandCTRL -o ./Controllers;
+    dotnet new class -n Base -o ./Entities;
     dotnet new class -n Category -o ./Entities;
     dotnet new class -n Product -o ./Entities;
     dotnet new class -n Brand -o ./Entities;

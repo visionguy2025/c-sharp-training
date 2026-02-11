@@ -4463,11 +4463,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 02 11\\EcommerceAPI\\EcommerceAPI.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 02 11\\(PREV)\\EcommerceAPI\\EcommerceAPI.csproj",
       "projectName": "EcommerceAPI",
-      "projectPath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 02 11\\EcommerceAPI\\EcommerceAPI.csproj",
+      "projectPath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 02 11\\(PREV)\\EcommerceAPI\\EcommerceAPI.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 02 11\\EcommerceAPI\\obj\\",
+      "outputPath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 02 11\\(PREV)\\EcommerceAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9mj0ii0ZujU=",
+  "dgSpecHash": "SF/nprTC2ZY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 02 11\\EcommerceAPI\\EcommerceAPI.csproj",
+  "projectFilePath": "C:\\Users\\user\\Desktop\\KB\\VACSharp\\2026 02 11\\(PREV)\\EcommerceAPI\\EcommerceAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

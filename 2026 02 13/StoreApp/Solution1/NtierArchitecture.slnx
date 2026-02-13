@@ -1,7 +1,0 @@
-<Solution>
-  <Project Path="Business/Business.csproj" />
-  <Project Path="Core/Core.csproj" />
-  <Project Path="DataAccessLayer/DataAccessLayer.csproj" />
-  <Project Path="Entities/Entities.csproj" />
-  <Project Path="WebAPI/WebAPI.csproj" />
-</Solution>
